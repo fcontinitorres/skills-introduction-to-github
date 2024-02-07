@@ -1,2 +1,2 @@
-Welcome to wer our GitHub profile!
+Welcome to only my GitHub profile!
 Add comentario.
